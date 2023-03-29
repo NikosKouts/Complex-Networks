@@ -1,0 +1,23 @@
+# The contained cliques in the communities at k=5
+# from /home/nick/Desktop/syntheta/hw3/output.txt
+# at no lower link weight threshold,
+# and at no upper link weight threshold.
+# Links were treated as undirected.
+# No time limit was set for the clique search.
+
+0: 14 67 99 110 68 70 83 87 91 95 108 41 44 52 71 90 93 94 115 117 125 85 109 84 64 65 102 103 104 107 129 124 126 40 113 114 121 122 127 128 60 119 72 96 101 118 120 31 54 78 86 88 89 92 97 100 116 58 75 48 56 79 42 57 69 80 81 66 55 76 77 25 20 15 18 37 38 123 111 74 106 51 73 19 
+1: 16 
+2: 17 
+3: 21 59 29 35 
+4: 22 
+5: 23 
+6: 26 
+7: 27 
+8: 28 45 62 105 30 34 46 47 33 
+9: 32 
+10: 39 
+11: 43 
+12: 49 61 
+13: 53 63 
+14: 98 
+15: 112 

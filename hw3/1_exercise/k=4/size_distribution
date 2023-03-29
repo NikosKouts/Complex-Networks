@@ -1,0 +1,16 @@
+# The size distr. of the  communities at k=4
+# from /home/nick/Desktop/syntheta/hw3/output.txt
+# at no lower link weight threshold,
+# and at no upper link weight threshold.
+# Links were treated as undirected.
+# No time limit was set for the clique search.
+
+4 2
+5 1
+6 2
+7 1
+8 1
+12 1
+37 1
+176 1
+

@@ -1,0 +1,13 @@
+# The overlap size distr. of the  communities at k=9
+# from /home/nick/Desktop/syntheta/hw3/output.txt
+# at no lower link weight threshold,
+# and at no upper link weight threshold.
+# Links were treated as undirected.
+# No time limit was set for the clique search.
+
+1 54
+2 14
+3 2
+4 6
+7 2
+

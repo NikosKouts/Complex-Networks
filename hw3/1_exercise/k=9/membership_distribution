@@ -1,0 +1,15 @@
+# The node membership distr. in the  communities at k=9
+# from /home/nick/Desktop/syntheta/hw3/output.txt
+# at no lower link weight threshold,
+# and at no upper link weight threshold.
+# Links were treated as undirected.
+# No time limit was set for the clique search.
+
+0 127
+1 111
+2 8
+3 4
+4 3
+5 1
+13 1
+
